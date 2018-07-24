@@ -1,3 +1,5 @@
+package basic_syntax
+
 //  create functions that finds sum of 2 arguments
 
 //  Explicit return type

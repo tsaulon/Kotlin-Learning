@@ -1,3 +1,5 @@
+package basic_syntax
+
 fun main(args: Array<String>){
 
     val str = "Herp-derp!";

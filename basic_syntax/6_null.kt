@@ -1,3 +1,5 @@
+package basic_syntax
+
 //  Handling Null Datatypes
 fun main(args: Array<String>){
     printProduct("12", "15")    //  180

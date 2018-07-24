@@ -1,5 +1,5 @@
-import java.util.Date
-import java.time.LocalDateTime
+package basic_syntax
+
 fun main(args: Array<String>){
 
     var a = 1

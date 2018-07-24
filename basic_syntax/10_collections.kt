@@ -1,3 +1,5 @@
+package basic_syntax
+
 fun main(args: Array<String>){
 
     var items = listOf("apple", "banana", "kiwifruit", "orange")
