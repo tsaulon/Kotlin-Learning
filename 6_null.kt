@@ -23,5 +23,3 @@ fun printProduct(a: String, b: String){
         println(e.message);
     }
 }
-
-//  TODO: Pick up from 'Using type checks and automatic casts' from 'Basic Syntax' Kotlin Documentation.
