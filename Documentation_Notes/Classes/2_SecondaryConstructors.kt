@@ -4,9 +4,6 @@ class Person2(firstName: String){
         var name = firstName
     }
 
-    constructor(parent: Person2){
-        parent.children.add(this)
-    }
 }
 
 fun main(args: Array<String>){
