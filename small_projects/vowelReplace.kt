@@ -1,6 +1,6 @@
 fun main(args: Array<String>){
-    //Replace all vowel to exclamation mark in the sentence.
-    println(replace("HI!"))
+    //Replace all vowel to exclamation mark in the sentence from user input
+    println(replace(readLine().toString()))
 }
 
 fun replace(s: String): String{
